@@ -1,0 +1,11 @@
+body {
+    text-align:center;
+    background-color:#260980;
+    color:#ffffff;
+    font-family:"Oswald";
+}
+img{
+    width: 25%;
+    border-radius: 50%;
+    margin-top:100px;
+}
